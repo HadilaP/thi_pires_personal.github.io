@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "373234d664ffe656d0fb4039a86ad513",
-"assets/AssetManifest.bin.json": "4446c963dde6091a6b6de4cb1ae02947",
-"assets/AssetManifest.json": "801125fca546f506babac9af4ec061ba",
+const RESOURCES = {"assets/AssetManifest.bin": "aee656523330af8688fcc06f5be960d4",
+"assets/AssetManifest.bin.json": "73cd624ffb212e217f2d0b6a32d61de1",
+"assets/AssetManifest.json": "0551a3f79b97161835b87cc59c690b2f",
+"assets/assets/images/Thi_Pires_Personal.png": "89b69769f41e6b42074ec4d0fb09f904",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "a0a49d53ceb3f4cb759f21cdd7c3e0e8",
 "assets/NOTICES": "6ff0ef463d8f28b4ff7efec00c1a98ed",
@@ -27,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "373234d664ffe656d0fb4039a86ad513
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1247cf53d47718e4f0a696689570806e",
-"/": "1247cf53d47718e4f0a696689570806e",
-"main.dart.js": "7c1ec06a27fa4f190db5248039db5a62",
+"index.html": "e04e476fcdc5b89a5e375f0ed5a85d39",
+"/": "e04e476fcdc5b89a5e375f0ed5a85d39",
+"main.dart.js": "48e11a9cdeed3e7fd852fe408d5a81c8",
 "manifest.json": "79c3aceed435eeb3a2e3f769bd079f94",
 "version.json": "3d269a051ab9447dfd6036426fb6262d"};
 // The application shell files that are downloaded before a service worker can
