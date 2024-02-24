@@ -45050,7 +45050,7 @@ A.GL.prototype={
 i(a){return this.b},
 $icp:1}
 A.qy.prototype={
-gm7(){return"Thi_Pires_Personal.png"},
+gm7(){return"assets/Thi_Pires_Personal.png"},
 t7(a){var s,r={},q=a.a
 if(q==null)q=$.nj()
 r.a=r.b=null
